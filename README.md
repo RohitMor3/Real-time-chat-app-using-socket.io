@@ -1,7 +1,7 @@
 # Real-Time Chat App using Socket.IO
 Basic MERN project to learn socket.io integration 
 
-A extremely simple real-time chat application built using **React**, **Vite**, **Node.js**, **Express**, and **Socket.IO**.  
+An extremely simple real-time chat application built using **React**, **Vite**, **Node.js**, **Express**, and **Socket.IO**.  
 Basically users can enter a username, join the chat, and send messages that appear instantly in real time. altho more features are going to be added but for now I am just learning integartion of websockets
 
 
